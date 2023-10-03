@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there, I'm Up 👋🏻
 
-<!--
-**UpcraftLP/UpcraftLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie Game Dev, Minecraft Modder.
+I also do a lot of systems engineering and DevOps.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### To follow my socials, go [check out my website](https://upcraft.dev).
+
+I'm mostly active on **discord** and **[BlueSky](https://upcraft.dev/links/bluesky)** at the moment.
+
+
+
+### 💜I'm really struggling right now, so if you want to support me, you can do so on [Ko-Fi](https://ko-fi.com/upcraftlp). 💜
