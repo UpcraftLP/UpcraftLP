@@ -9,6 +9,7 @@ I also do a lot of systems engineering and DevOps.
 
 I'm mostly active on **discord** and **[BlueSky](https://upcraft.dev/links/bluesky)** at the moment.
 
-
-
-**[💜 I'm really struggling right now, so if you want to support me, you can do so on Ko-Fi (click me!) 💜](https://ko-fi.com/upcraftlp)**
+**
+> [!IMPORTANT]
+> 💜 I'm really struggling right now, so if you want to support me, you can do so on [Ko-Fi (click me!)](https://ko-fi.com/upcraftlp) 💜
+**
