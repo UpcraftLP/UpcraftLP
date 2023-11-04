@@ -11,4 +11,4 @@ I'm mostly active on **discord** and **[BlueSky](https://upcraft.dev/links/blues
 
 
 > [!IMPORTANT]
-> **💜 I'm really struggling right now, so if you want to support me, you can do so on [Ko-Fi (click me!)](https://upcraft.dev/links/kofi) 💜**
+> **💜 I'm really struggling right now, so if you want to support me, you can do so on [Ko-Fi (click me!)](https://upcraft.dev/links/ko-fi) 💜**
